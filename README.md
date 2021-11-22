@@ -40,3 +40,5 @@ This program enables the first time you run:
   Configure the WiFi settings reset and use the AP as the next one and select the wifi data again.
   This option allows you to upload new software via www.
 */
+
+Opis płyty PCB: https://github.com/poljant/FanLightKiCAD.git
